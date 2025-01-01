@@ -11,8 +11,8 @@ Welcome to the **React Burger Website** for ordering delicious food items like *
 
 ## Screenshots
 
-![Home Page](assets/images/homepage.png)
-*Browse the delicious food items on the homepage.*
+# Home Page
+![Home Page](https://github.com/user-attachments/assets/a5bafe6a-5d0e-4660-bea2-13c110406c7c)
 
 ![Product Detail Page](assets/images/product-detail.png)
 *View detailed information for each food item.*
