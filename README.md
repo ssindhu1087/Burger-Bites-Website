@@ -21,9 +21,7 @@ Welcome to the **React Burger Website** for ordering delicious food items like *
 
 - **React**: A JavaScript library for building user interfaces.
 - **React Router**: For page navigation without refreshing the page.
-- **Redux**: For state management (optional if used).
 - **CSS/SCSS**: For styling the website and ensuring responsiveness.
-- **Firebase (Optional)**: For user authentication and backend services (if implemented).
 
 ## Installation
 
