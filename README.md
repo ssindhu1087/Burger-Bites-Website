@@ -1,10 +1,10 @@
 # React E-Commerce Website - Food Items
 
-Welcome to the **React E-Commerce Website** for ordering delicious food items like **Burgers**, **Pizzas**, and **Fries**! This project showcases a simple, user-friendly interface built with React for a seamless online food ordering experience.
+Welcome to the **React Burger Website** for ordering delicious food items like **Burgers**. This project showcases a simple, user-friendly interface built with React for a seamless online food ordering experience.
 
 ## Features
 
-- **Product Listings**: Browse a variety of food items like burgers, pizzas, and fries with detailed descriptions and prices.
+- **Product Listings**: Browse a variety of burger and fries with detailed descriptions and prices.
 - **Shopping Cart**: Add items to your cart and manage quantities before proceeding to checkout.
 - **Responsive Design**: The website is fully responsive and optimized for both desktop and mobile devices.
 - **Simple Checkout Flow**: A basic checkout form to simulate order placement.
