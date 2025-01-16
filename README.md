@@ -1,4 +1,4 @@
-# React E-Commerce Website - Food Items
+# React Burger Website
 
 Welcome to the **React Burger Website** for ordering delicious food items like **Burgers**. This project showcases a simple, user-friendly interface built with React for a seamless online food ordering experience.
 
