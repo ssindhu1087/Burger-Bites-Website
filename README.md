@@ -23,8 +23,5 @@ Welcome to the **React Burger Website** for ordering delicious food items like *
 - **React Router**: For page navigation without refreshing the page.
 - **CSS/SCSS**: For styling the website and ensuring responsiveness.
 
-## Installation
-
-1. Clone this repository to your local machine:
 
   
